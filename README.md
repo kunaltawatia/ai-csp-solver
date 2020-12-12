@@ -27,3 +27,5 @@ g++ -O3 ./codes/main.cpp -o ./codes/main
 ```
 
 For more, kindly refer to `demo.webm`
+
+[![](https://img.shields.io/badge/Donate-Jupyter?style=for-the-badge)](https://razorpay.webug.space/kunaltawatia/ai-gcp-solver)
